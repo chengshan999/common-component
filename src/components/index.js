@@ -1,4 +1,4 @@
-import CommonSelect from "@/components/CommonSelect"
+import CommonSelect from "./CommonSelect"
 
 export default {
     CommonSelect
